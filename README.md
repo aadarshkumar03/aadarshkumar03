@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @aadarshkumar03
+<h1>👋 Hi, I’m Aadarshkumar</h1>
+
 - 👀 I’m interested in Learning / Gaming.
 - 🌱 I’m currently learning Python.
 <!-- - 💞️ I’m looking for Jobs. -->
